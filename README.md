@@ -8,7 +8,7 @@ While maintaining the small, single-file philosophy of Kickstart, I have added t
 
 - **Theme:** [Catppuccin (Macchiato)](https://github.com/catppuccin/nvim) for a beautiful dark mode aesthetic.
 - **File Explorer:** [Neo-tree](https://github.com/nvim-neo-tree/neo-tree.nvim) mapped to `<leader>n` for quick file navigation.
-- **Notes & Knowledge Base:** [Vimwiki](https://github.com/vimwiki/vimwiki) for personal notes.
+- **Notes & Knowledge Base:** [Vimwiki](https://github.com/vimwiki/vimwiki) for personal notes, and [Obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) for powerful Obsidian vault editing.
 - **Tmux Integration:** [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) for seamless navigation between Neovim splits and tmux panes using `<C-h/j/k/l>`.
 
 ## 📦 Installation
