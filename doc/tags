@@ -1,3 +1,5 @@
-kickstart-is	kickstart.txt	/*kickstart-is*
-kickstart-is-not	kickstart.txt	/*kickstart-is-not*
-kickstart.nvim	kickstart.txt	/*kickstart.nvim*
+emddom-commands	emddom.txt	/*emddom-commands*
+emddom-credits	emddom.txt	/*emddom-credits*
+emddom-features	emddom.txt	/*emddom-features*
+emddom-theme	emddom.txt	/*emddom-theme*
+emddom.nvim	emddom.txt	/*emddom.nvim*
