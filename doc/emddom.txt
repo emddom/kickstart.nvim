@@ -1,0 +1,31 @@
+================================================================================
+EMDDOM'S NVIM                                                      *emddom.nvim*
+
+This is a personalized Neovim configuration built on top of kickstart.nvim,
+optimized for development, note-taking, and embedded systems.
+
+                                                                 *emddom-theme*
+THEME
+- Uses Catppuccin (Macchiato) for a beautiful and consistent aesthetic.
+
+                                                               *emddom-features*
+KEY FEATURES
+- File Explorer: Neo-tree mapped to `<leader>n`.
+- Fuzzy Finder: Telescope for files, symbols, and grep.
+- Note Taking: Integrated with Obsidian.nvim and Vimwiki.
+- Tmux Integration: Seamless pane switching via vim-tmux-navigator.
+- Embedded Systems: Pre-configured for Arduino and ESP-IDF development.
+- Task Runner: Overseer.nvim for managing builds and flashes.
+
+                                                               *emddom-commands*
+USEFUL COMMANDS
+- `:ObsidianNew` - Create a new Obsidian note.
+- `<leader>ch`   - Toggle checkbox in Markdown/Obsidian.
+- `<leader>or`   - Run a task via Overseer.
+- `<leader>ot`   - Toggle Overseer UI.
+
+                                                               *emddom-credits*
+CREDITS
+- Based on the original kickstart.nvim project.
+
+ vim:tw=78:ts=8:ft=help:norl:
