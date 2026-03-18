@@ -35,7 +35,7 @@ External Requirements:
   - etc.
 
 > [!NOTE]
-> See [Install Recipes](#Install-Recipes) for additional Windows and Linux specific notes
+> See [Install Recipes](#Install-Recipes) for additional Windows and Linux specific notes/
 > and quick install snippets
 
 ### Install Kickstart
@@ -45,11 +45,11 @@ External Requirements:
 
 Neovim's configurations are located under the following paths, depending on your OS:
 
-| OS | PATH |
-| :- | :--- |
-| Linux, MacOS | `$XDG_CONFIG_HOME/nvim`, `~/.config/nvim` |
-| Windows (cmd)| `%localappdata%\nvim\` |
-| Windows (powershell)| `$env:LOCALAPPDATA\nvim\` |
+| OS                   | PATH                                      |
+| :-        n |
+| Linux, MacOS         | `$XDG_CONFIG_HOME/nvim`, `~/.config/nvim` |
+| Windows (cmd)        | `%localappdata%\nvim\`                    |
+| Windows (powershell) | `$env:LOCALAPPDATA\nvim\`                 |
 
 #### Recommended Step
 
