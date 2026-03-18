@@ -16,7 +16,7 @@ return {
     workspaces = {
       {
         name = 'personal',
-        path = '~/Documents/Obsidian', -- Change this to your Obsidian vault path
+        path = '/home/emddom/myObsdnVaults', -- Change this to your Obsidian vault path
       },
     },
     
