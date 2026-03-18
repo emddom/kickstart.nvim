@@ -76,6 +76,8 @@ return {
       local servers = {
         arduino_language_server = {},
         clangd = {},
+        cmake = {},
+        pyright = {},
         lua_ls = {
           settings = {
             Lua = {
